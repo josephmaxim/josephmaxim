@@ -1,4 +1,9 @@
-### Hi there 👋
+🖥  [Plugmetrics.com](https://plugmetrics.com) | 
+🔊  [FixMySpeakers.com](https://fixmyspeakers.com) |
+👨🏻‍💻  [HtmlCss.tools](https://htmlcss.tools) | 
+📈  [Stockheed.com](https://Stockheed.com) |
+
+Visit [josephmaxim.com](https://josephmaxim.com) to learn more about my projects!
 
 <!--
 **josephmaxim/josephmaxim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
