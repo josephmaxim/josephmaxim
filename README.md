@@ -1,7 +1,7 @@
 🖥  [Plugmetrics.com](https://plugmetrics.com) | 
 🔊  [FixMySpeakers.com](https://fixmyspeakers.com) |
 👨🏻‍💻  [htmlcss.tools](https://htmlcss.tools) | 
-📈  [NiftyQR.com](https://niftyqr.com)
+🔲  [NiftyQR.com](https://niftyqr.com)
 
 Visit [josephmaxim.com](https://josephmaxim.com) to learn more about my projects!
 
